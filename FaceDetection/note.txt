@@ -1,0 +1,1 @@
+The face detection apps can be instlled in an android phone and what it does is to take a picture and give you basic information about the face in the picture like whether the person is smilling or not and whether the eyws are closed or opened.
